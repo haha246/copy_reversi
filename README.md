@@ -35,7 +35,7 @@ Now you can play with an AI
 
 OR use this to test 我們寫的自動下棋程式
 ```
-    $ python3 arena.py --agent1 moose1108.MyAgent --agent2 base_agent.RandomAgent
+$ python3 arena.py --agent1 moose1108.MyAgent --agent2 base_agent.RandomAgent
 ```
 
 ### Team members
