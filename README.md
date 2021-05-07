@@ -31,12 +31,13 @@ $ git clone https://github.com/haha246/copy_reversi
 $ cd copy_reversi
 $ python arena.py --time_limit=600000
 ```
-Now you can play with an AI
+Now you can play with an AI.
 
 OR use this to test 我們寫的自動下棋程式
 ```
 $ python arena.py --agent1 moose1108.MyAgent --agent2 base_agent.RandomAgent
 ```
+Agent1 is black, while agent2 is white.
 
 ### Team members
 - Team leader:
